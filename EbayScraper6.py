@@ -65,9 +65,4 @@ while len(all_items) < 10000:  # Continue until you have 10,000 items
 # Quit the driver when done
 # driver.quit()
 
-#add a way to check for duplicate items
-#add date of sale to item_data
-#save all items to database
-#add functionality to get more than 10,000 items
-
 
